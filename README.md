@@ -33,5 +33,3 @@ To study the problem statement draw all the UML diagrams of Library Management S
 
 # RESULT:
 Thus, the Library Management System was created successfully.
-
-# RESULT:
